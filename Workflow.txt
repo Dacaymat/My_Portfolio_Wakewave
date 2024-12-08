@@ -1,0 +1,15 @@
+Phase 1 Planning 
+-Define requirements, finalize features, research similar apps for UX ideas.
+-Week 1-2
+Phase 2
+-Design Wireframe app UI, create mockups finalize design
+-Week 3-4
+Phase 3 Development
+-Set up app architecture, develop core features, integrate with calendar and notification systems
+-Week 5-10
+Phase 4 testing
+-Perform testing, QA testing with select users
+-Week 11-12
+Phase 5 Deployment
+-App store Submission, monitor initial feedback, launch first update if needed
+-Week 13
